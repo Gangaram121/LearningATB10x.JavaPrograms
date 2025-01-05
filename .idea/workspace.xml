@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test9.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="abc">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/Test10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,7 @@
     "Application.Helloworld.executor": "Run",
     "Application.HiRam.executor": "Run",
     "Application.Jan.ex_04012025.Helloworld.executor": "Run",
+    "Application.Test10.executor": "Run",
     "Application.Test7.executor": "Run",
     "Application.babu.executor": "Run",
     "Application.lab001_println_vs_print.executor": "Run",
@@ -81,9 +82,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test9">
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test7" />
+  <component name="RunManager" selected="Application.Test10">
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test10" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test5" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test7" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test10" />
         <item itemvalue="Application.test9" />
         <item itemvalue="Application.test8" />
         <item itemvalue="Application.Test7" />
         <item itemvalue="Application.test6" />
-        <item itemvalue="Application.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736078730760</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="abc">
+      <option name="closed" value="true" />
+      <created>1736078920733</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736078920733</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,7 +307,8 @@
     <MESSAGE value="Abc" />
     <MESSAGE value="newfile" />
     <MESSAGE value="s" />
-    <option name="LAST_COMMIT_MESSAGE" value="s" />
+    <MESSAGE value="abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="abc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

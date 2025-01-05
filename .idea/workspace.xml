@@ -82,7 +82,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test10">
+  <component name="RunManager" selected="Application.Test11">
     <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test10" />
       <module name="LearningATB10x.JavaPrograms" />
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test7" />
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test11" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test6" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test7" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test11" />
         <item itemvalue="Application.Test10" />
         <item itemvalue="Application.test9" />
         <item itemvalue="Application.test8" />
         <item itemvalue="Application.Test7" />
-        <item itemvalue="Application.test6" />
       </list>
     </recent_temporary>
   </component>

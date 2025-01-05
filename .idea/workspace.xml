@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Abc">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test6.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="newfile">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,12 @@
       <list>
         <option value="Rambabu &lt;rambabu.ganga01@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,6 +64,7 @@
     "Application.Helloworld.executor": "Run",
     "Application.HiRam.executor": "Run",
     "Application.Jan.ex_04012025.Helloworld.executor": "Run",
+    "Application.Test7.executor": "Run",
     "Application.babu.executor": "Run",
     "Application.lab001_println_vs_print.executor": "Run",
     "Application.test1.executor": "Run",
@@ -72,7 +79,7 @@
     "onboarding.tips.debug.path": "C:/Users/Poorvith/IdeaProjects/LearningATB10x.JavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test6">
+  <component name="RunManager" selected="Application.Test7">
     <configuration name="HiRam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HiRam" />
       <module name="LearningATB10x.JavaPrograms" />
@@ -80,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test3" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test7" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test7" />
         <item itemvalue="Application.test6" />
         <item itemvalue="Application.test5" />
         <item itemvalue="Application.HiRam" />
         <item itemvalue="Application.test4" />
-        <item itemvalue="Application.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736075682837</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="newfile">
+      <option name="closed" value="true" />
+      <created>1736075814136</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736075814136</updated>
+    </task>
+    <task id="LOCAL-00011" summary="newfile">
+      <option name="closed" value="true" />
+      <created>1736075921791</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736075921791</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,7 +256,8 @@
     <MESSAGE value="added new one" />
     <MESSAGE value="AA" />
     <MESSAGE value="Abc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abc" />
+    <MESSAGE value="newfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="newfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

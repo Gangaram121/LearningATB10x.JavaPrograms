@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="abc">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/Test10.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Newchangestest11">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test12_println_vs_print.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +64,12 @@
     "Application.HiRam.executor": "Run",
     "Application.Jan.ex_04012025.Helloworld.executor": "Run",
     "Application.Test10.executor": "Run",
+    "Application.Test11.executor": "Run",
     "Application.Test7.executor": "Run",
     "Application.babu.executor": "Run",
     "Application.lab001_println_vs_print.executor": "Run",
     "Application.test1.executor": "Run",
+    "Application.test12_println_vs_print.executor": "Run",
     "Application.test2.executor": "Run",
     "Application.test3.executor": "Run",
     "Application.test4.executor": "Run",
@@ -82,7 +84,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test11">
+  <component name="RunManager" selected="Application.test12_println_vs_print">
     <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test10" />
       <module name="LearningATB10x.JavaPrograms" />
@@ -109,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test7" />
+    <configuration name="test12_println_vs_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test12_println_vs_print" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test12_println_vs_print" />
         <item itemvalue="Application.Test11" />
         <item itemvalue="Application.Test10" />
         <item itemvalue="Application.test9" />
         <item itemvalue="Application.test8" />
-        <item itemvalue="Application.Test7" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +297,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736078920733</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="New changes">
+      <option name="closed" value="true" />
+      <created>1736079408819</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736079408819</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Newchangestest11">
+      <option name="closed" value="true" />
+      <created>1736079527460</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736079527460</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,7 +326,9 @@
     <MESSAGE value="newfile" />
     <MESSAGE value="s" />
     <MESSAGE value="abc" />
-    <option name="LAST_COMMIT_MESSAGE" value="abc" />
+    <MESSAGE value="New changes" />
+    <MESSAGE value="Newchangestest11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newchangestest11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="New file added">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test1.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Abc">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,15 +61,27 @@
     "Application.babu.executor": "Run",
     "Application.lab001_println_vs_print.executor": "Run",
     "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test3.executor": "Run",
+    "Application.test4.executor": "Run",
+    "Application.test5.executor": "Run",
+    "Application.test6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Poorvith/IdeaProjects/LearningATB10x.JavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="Hellotesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Hellotesting" />
+  <component name="RunManager" selected="Application.test6">
+    <configuration name="HiRam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HiRam" />
+      <module name="LearningATB10x.JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test3" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -81,34 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jan.ex_04012025.Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_04012025.Helloworld" />
-      <module name="LearningATB10x.JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan.ex_04012025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="babu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_04012025.babu" />
-      <module name="LearningATB10x.JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan.ex_04012025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab001_println_vs_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.lab001_println_vs_print" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test4" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +106,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test1" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test5" />
+      <module name="LearningATB10x.JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan.ex_05012025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test6" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.lab001_println_vs_print" />
-        <item itemvalue="Application.Hellotesting" />
-        <item itemvalue="Application.Jan.ex_04012025.Helloworld" />
-        <item itemvalue="Application.babu" />
+        <item itemvalue="Application.test6" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.HiRam" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -184,13 +183,57 @@
       <option name="project" value="LOCAL" />
       <updated>1736071602224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added new file">
+      <option name="closed" value="true" />
+      <created>1736072184193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736072184193</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added new file">
+      <option name="closed" value="true" />
+      <created>1736073771552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736073771552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added new one">
+      <option name="closed" value="true" />
+      <created>1736073866808</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736073866808</updated>
+    </task>
+    <task id="LOCAL-00008" summary="AA">
+      <option name="closed" value="true" />
+      <created>1736075068869</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736075068869</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Abc">
+      <option name="closed" value="true" />
+      <created>1736075682837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736075682837</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New chnages added" />
     <MESSAGE value="New file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New file added" />
+    <MESSAGE value="added new file" />
+    <MESSAGE value="added new one" />
+    <MESSAGE value="AA" />
+    <MESSAGE value="Abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

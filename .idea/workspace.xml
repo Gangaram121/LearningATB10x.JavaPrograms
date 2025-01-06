@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Newchangestest11">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test12_println_vs_print.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Newchangestest12">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_06012025/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_06012025/test2_println_vs_print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +73,7 @@
     "Application.test1.executor": "Run",
     "Application.test12_println_vs_print.executor": "Run",
     "Application.test2.executor": "Run",
+    "Application.test2_println_vs_print.executor": "Run",
     "Application.test3.executor": "Run",
     "Application.test4.executor": "Run",
     "Application.test5.executor": "Run",
@@ -84,7 +87,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test12_println_vs_print">
+  <component name="RunManager" selected="Application.test2_println_vs_print">
     <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test10" />
       <module name="LearningATB10x.JavaPrograms" />
@@ -111,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_06012025.test1" />
+      <module name="LearningATB10x.JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan.ex_06012025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test12_println_vs_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test12_println_vs_print" />
       <module name="LearningATB10x.JavaPrograms" />
@@ -124,25 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test8" />
+    <configuration name="test2_println_vs_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_06012025.test2_println_vs_print" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_05012025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test9" />
-      <module name="LearningATB10x.JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan.ex_05012025.*" />
+          <option name="PATTERN" value="Jan.ex_06012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test2_println_vs_print" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.test12_println_vs_print" />
         <item itemvalue="Application.Test11" />
         <item itemvalue="Application.Test10" />
-        <item itemvalue="Application.test9" />
-        <item itemvalue="Application.test8" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +316,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736079527460</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Newchangestest11">
+      <option name="closed" value="true" />
+      <created>1736079715651</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736079715651</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Newchangestest12">
+      <option name="closed" value="true" />
+      <created>1736079745377</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736079745377</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -328,7 +347,8 @@
     <MESSAGE value="abc" />
     <MESSAGE value="New changes" />
     <MESSAGE value="Newchangestest11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Newchangestest11" />
+    <MESSAGE value="Newchangestest12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newchangestest12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

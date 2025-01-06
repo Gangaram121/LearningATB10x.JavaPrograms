@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Newchangestest11">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_05012025/test12_println_vs_print.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Test1&amp; 2 changes">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_11012025/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_11012025/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +35,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Gangaram121"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gangaram121&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Gangaram121/LearningATB10x.JavaPrograms.git",
-    "accountId": "27326933-4e81-4154-878f-ed892a595a4c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gangaram121/LearningATB10x.JavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;27326933-4e81-4154-878f-ed892a595a4c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -63,6 +65,7 @@
     "Application.Helloworld.executor": "Run",
     "Application.HiRam.executor": "Run",
     "Application.Jan.ex_04012025.Helloworld.executor": "Run",
+    "Application.Jan.ex_11012025.test1.executor": "Run",
     "Application.Test10.executor": "Run",
     "Application.Test11.executor": "Run",
     "Application.Test7.executor": "Run",
@@ -71,6 +74,7 @@
     "Application.test1.executor": "Run",
     "Application.test12_println_vs_print.executor": "Run",
     "Application.test2.executor": "Run",
+    "Application.test2_println_vs_print.executor": "Run",
     "Application.test3.executor": "Run",
     "Application.test4.executor": "Run",
     "Application.test5.executor": "Run",
@@ -78,19 +82,20 @@
     "Application.test8.executor": "Run",
     "Application.test9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Poorvith/IdeaProjects/LearningATB10x.JavaPrograms/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test12_println_vs_print">
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test10" />
+  <component name="RunManager" selected="Application.test2">
+    <configuration name="Jan.ex_11012025.test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_11012025.test1" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_05012025.*" />
+          <option name="PATTERN" value="Jan.ex_11012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.Test11" />
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_06012025.test1" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_05012025.*" />
+          <option name="PATTERN" value="Jan.ex_06012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test8" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_11012025.test2" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_05012025.*" />
+          <option name="PATTERN" value="Jan.ex_11012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_05012025.test9" />
+    <configuration name="test2_println_vs_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_06012025.test2_println_vs_print" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_05012025.*" />
+          <option name="PATTERN" value="Jan.ex_06012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.Jan.ex_11012025.test1" />
+        <item itemvalue="Application.test2_println_vs_print" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.test12_println_vs_print" />
-        <item itemvalue="Application.Test11" />
-        <item itemvalue="Application.Test10" />
-        <item itemvalue="Application.test9" />
-        <item itemvalue="Application.test8" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +318,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736079527460</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Newchangestest11">
+      <option name="closed" value="true" />
+      <created>1736079715651</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736079715651</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Newchangestest12">
+      <option name="closed" value="true" />
+      <created>1736079745377</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736079745377</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Test1&amp; 2 changes">
+      <option name="closed" value="true" />
+      <created>1736139179261</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736139179261</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -328,7 +357,9 @@
     <MESSAGE value="abc" />
     <MESSAGE value="New changes" />
     <MESSAGE value="Newchangestest11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Newchangestest11" />
+    <MESSAGE value="Newchangestest12" />
+    <MESSAGE value="Test1&amp; 2 changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test1&amp; 2 changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -337,6 +368,15 @@
           <url>file://$PROJECT_DIR$/src/Jan/ex_05012025/test1.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Jan/ex_11012025/test1.java</url>
+          <line>3</line>
+          <properties class="Jan.ex_11012025.test1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

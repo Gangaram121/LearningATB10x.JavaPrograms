@@ -4,25 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Test1&amp; 2 changes">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/All_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/BODMAS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Boolean_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Char1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Concatenationinterviewquestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Literal1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Logical_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Operators_Arithmetic_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Relational_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/TypCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Unary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/concatenationinterview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/or_and_gate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/test4.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Increment_Decrement_Op_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Increment_Decrement_op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Increment_decrement_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Max_3_T_O.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Max_number_T_O.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Turnory_op_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Turnory_operator_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/interview_question_turnory_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/DoWhile_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/DoWhile_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/FizzBuzz_task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_Even_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_reverse_number_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/IF_condition_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/If_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/If_elseif_else_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Odd_Even_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Odd_Even_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Palindrome_ofa_String_task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Switch_Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Switch_Basics_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Switch_Basics_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Vowels_Consonants_task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/While_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/While_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/for_loop_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/for_loop_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/for_loop_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_elseif_else_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_26012025/Functions_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_26012025/maths_max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/AgetoVote_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/Max_Two_numbers_task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/Positive_Negative_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/Vowel_Consonant_task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/even_odd_Task_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan/ex_18012025/Unary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Unary_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan/ex_19012025/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan/ex_19012025/test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan/ex_19012025/test4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +70,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -75,34 +114,89 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgetoVote_5.executor": "Run",
     "Application.All_Operators.executor": "Run",
     "Application.BODMAS.executor": "Run",
     "Application.Boolean_Literals.executor": "Run",
     "Application.Char1.executor": "Run",
     "Application.Concatenationinterviewquestion.executor": "Run",
     "Application.Constant.executor": "Run",
+    "Application.DoWhile_1.executor": "Run",
+    "Application.DoWhile_2.executor": "Run",
+    "Application.FizzBuzz_task_1.executor": "Run",
+    "Application.For_loop_3.executor": "Run",
+    "Application.For_loop_4.executor": "Run",
+    "Application.For_loop_5.executor": "Run",
+    "Application.For_loop_6.executor": "Debug",
+    "Application.For_loop_Continue.executor": "Run",
+    "Application.For_loop_Even_Numbers.executor": "Run",
+    "Application.For_loop_reverse_number_7.executor": "Run",
+    "Application.Functions_1.executor": "Run",
     "Application.HelloRam.executor": "Run",
     "Application.Hellotesting.executor": "Run",
-    "Application.Helloworld.executor": "Run",
+    "Application.Helloworld.executor": "Debug",
     "Application.HiRam.executor": "Run",
+    "Application.IF_condition_1.executor": "Run",
+    "Application.If_2.executor": "Run",
+    "Application.If_elseif_else_1.executor": "Run",
+    "Application.Increment_Decrement_Op_1.executor": "Run",
+    "Application.Increment_Decrement_op.executor": "Run",
     "Application.Jan.ex_04012025.Helloworld.executor": "Run",
     "Application.Jan.ex_11012025.test1.executor": "Run",
     "Application.Jan.ex_19012025.test1.executor": "Run",
     "Application.Literal1.executor": "Run",
     "Application.Logical_Operators.executor": "Run",
+    "Application.Max_3_T_O.executor": "Run",
+    "Application.Max_Two_numbers_task3.executor": "Run",
+    "Application.Max_number_T_O.executor": "Run",
+    "Application.Odd_Even_8.executor": "Run",
+    "Application.Odd_Even_program.executor": "Run",
     "Application.Operators1.executor": "Run",
+    "Application.Palindrome_ofa_String_task_3.executor": "Run",
+    "Application.Positive_Negative_task.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
+    "Application.Switch_Basics.executor": "Run",
+    "Application.Switch_Basics_1.executor": "Run",
+    "Application.Switch_Basics_2.executor": "Run",
+    "Application.Switch_statement.executor": "Run",
+    "Application.Task_4.executor": "Run",
+    "Application.Task_5.executor": "Run",
+    "Application.Ternary_Operator.executor": "Run",
+    "Application.Ternary_Operator_2.executor": "Run",
+    "Application.Ternary_Operator_3.executor": "Run",
     "Application.Test10.executor": "Run",
     "Application.Test11.executor": "Run",
     "Application.Test2.executor": "Run",
     "Application.Test7.executor": "Run",
+    "Application.Turnory_op_2.executor": "Run",
+    "Application.Turnory_operator_1.executor": "Run",
     "Application.Unary_Operator.executor": "Run",
+    "Application.Vowel_Consonant_task4.executor": "Run",
+    "Application.Vowels_Consonants_task_2.executor": "Run",
+    "Application.While_1.executor": "Run",
+    "Application.While_2.executor": "Run",
     "Application.babu.executor": "Run",
     "Application.concatenationinterview.executor": "Run",
+    "Application.even_odd_Task_2.executor": "Run",
+    "Application.for_loop_1.executor": "Run",
+    "Application.for_loop_2.executor": "Run",
+    "Application.for_loop_break.executor": "Run",
+    "Application.if_else_1.executor": "Run",
+    "Application.if_else_2.executor": "Debug",
+    "Application.if_else_3.executor": "Run",
+    "Application.if_else_4.executor": "Run",
+    "Application.if_elseif_else_2.executor": "Run",
+    "Application.interview_question_turnory_operator.executor": "Run",
     "Application.lab001_println_vs_print.executor": "Run",
+    "Application.maths_max.executor": "Run",
     "Application.or_and_gate.executor": "Run",
+    "Application.task_1.executor": "Run",
+    "Application.task_2.executor": "Run",
+    "Application.task_3.executor": "Run",
+    "Application.test.executor": "Run",
     "Application.test1.executor": "Run",
     "Application.test12_println_vs_print.executor": "Run",
+    "Application.test1_t_o.executor": "Run",
     "Application.test2.executor": "Run",
     "Application.test2_println_vs_print.executor": "Run",
     "Application.test3.executor": "Run",
@@ -111,21 +205,23 @@
     "Application.test6.executor": "Run",
     "Application.test8.executor": "Run",
     "Application.test9.executor": "Run",
+    "Application.test_fizz_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Poorvith/IdeaProjects/LearningATB10x.JavaPrograms/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.All_Operators">
-    <configuration name="All_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_18012025.All_Operators" />
+  <component name="RunManager" selected="Application.AgetoVote_5">
+    <configuration name="AgetoVote_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.AgetoVote_5" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_18012025.*" />
+          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BODMAS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_18012025.BODMAS" />
+    <configuration name="Max_Two_numbers_task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.Max_Two_numbers_task3" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_18012025.*" />
+          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concatenationinterviewquestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_18012025.Concatenationinterviewquestion" />
+    <configuration name="Positive_Negative_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.Positive_Negative_task" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_18012025.*" />
+          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concatenationinterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_18012025.concatenationinterview" />
+    <configuration name="Vowel_Consonant_task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.Vowel_Consonant_task4" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_18012025.*" />
+          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="or_and_gate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_18012025.or_and_gate" />
+    <configuration name="even_odd_Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.even_odd_Task_2" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_18012025.*" />
+          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,13 +281,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.AgetoVote_5" />
+      <item itemvalue="Application.Max_Two_numbers_task3" />
+      <item itemvalue="Application.Positive_Negative_task" />
+      <item itemvalue="Application.Vowel_Consonant_task4" />
+      <item itemvalue="Application.even_odd_Task_2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.All_Operators" />
-        <item itemvalue="Application.or_and_gate" />
-        <item itemvalue="Application.BODMAS" />
-        <item itemvalue="Application.concatenationinterview" />
-        <item itemvalue="Application.Concatenationinterviewquestion" />
+        <item itemvalue="Application.AgetoVote_5" />
+        <item itemvalue="Application.Vowel_Consonant_task4" />
+        <item itemvalue="Application.Max_Two_numbers_task3" />
+        <item itemvalue="Application.even_odd_Task_2" />
+        <item itemvalue="Application.Positive_Negative_task" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736578596935</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Test1&amp; 2 changes">
+      <option name="closed" value="true" />
+      <created>1737557048037</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737557048037</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -411,6 +522,21 @@
           <url>file://$PROJECT_DIR$/src/Jan/ex_19012025/test3.java</url>
           <line>6</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jan/ex_19012025/Increment_decrement_Operator.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jan/ex_25012025/if_else_2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jan/ex_25012025/if_else_2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Jan/ex_11012025/test1.java</url>
@@ -457,11 +583,21 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="6" />
-        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Jan/ex_19012025/interview_question_turnory_operator.java</url>
+          <line>3</line>
+          <properties class="Jan.ex_19012025.interview_question_turnory_operator" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningATB10x_JavaPrograms$task_2.ic" NAME="task_2 Coverage Results" MODIFIED="1737888453460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Jan.ex_19012025.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -9,7 +9,7 @@ public class Unary_Operator {
         System.out.println(a1);
 
         int b = 6;
-        b = b+1;
+        b = b+4;
         System.out.println(b);
 
     }

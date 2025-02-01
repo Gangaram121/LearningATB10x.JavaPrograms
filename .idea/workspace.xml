@@ -4,63 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Increment_Decrement_Op_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Increment_Decrement_op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Increment_decrement_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Max_3_T_O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Max_number_T_O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Turnory_op_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/Turnory_operator_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/interview_question_turnory_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_19012025/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/DoWhile_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/DoWhile_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/FizzBuzz_task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_Even_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/For_loop_reverse_number_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/IF_condition_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/If_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/If_elseif_else_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Odd_Even_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Odd_Even_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Palindrome_ofa_String_task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Switch_Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Switch_Basics_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Switch_Basics_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/Vowels_Consonants_task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/While_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/While_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/for_loop_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/for_loop_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/for_loop_break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_else_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_25012025/if_elseif_else_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_26012025/Functions_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_26012025/maths_max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/AgetoVote_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/Max_Two_numbers_task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/Positive_Negative_task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/Vowel_Consonant_task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_29012025_task/even_odd_Task_2.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="If,else,loop changes">
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task1_Largest_of_3_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task2_Smallest_of_2_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task3_Smallest_of_3_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task4_Leap_Year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task5_Grade_Based_on_Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task6_Character_is_an_Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task7_Number_is_Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task8_ATM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jan/ex_18012025/Unary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan/ex_18012025/Unary_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jan/ex_19012025/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jan/ex_19012025/test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jan/ex_19012025/test4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +112,14 @@
     "Application.Switch_Basics_1.executor": "Run",
     "Application.Switch_Basics_2.executor": "Run",
     "Application.Switch_statement.executor": "Run",
+    "Application.Task1_Largest_of_3_Numbers.executor": "Run",
+    "Application.Task2_Smallest_of_2_Numbers.executor": "Run",
+    "Application.Task3_Smallest_of_3_Numbers.executor": "Run",
+    "Application.Task4_Leap_Year.executor": "Run",
+    "Application.Task5_Grade_Based_on_Marks.executor": "Run",
+    "Application.Task6_Character_is_an_Alphabet.executor": "Run",
+    "Application.Task7_Number_is_Prime.executor": "Run",
+    "Application.Task8_ATM.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
@@ -215,13 +176,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AgetoVote_5">
-    <configuration name="AgetoVote_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.AgetoVote_5" />
+  <component name="RunManager" selected="Application.Task8_ATM">
+    <configuration name="Task4_Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task4_Leap_Year" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
+          <option name="PATTERN" value="Jan.ex_30012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Two_numbers_task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.Max_Two_numbers_task3" />
+    <configuration name="Task5_Grade_Based_on_Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task5_Grade_Based_on_Marks" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
+          <option name="PATTERN" value="Jan.ex_30012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Positive_Negative_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.Positive_Negative_task" />
+    <configuration name="Task6_Character_is_an_Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task6_Character_is_an_Alphabet" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
+          <option name="PATTERN" value="Jan.ex_30012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vowel_Consonant_task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.Vowel_Consonant_task4" />
+    <configuration name="Task7_Number_is_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task7_Number_is_Prime" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
+          <option name="PATTERN" value="Jan.ex_30012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="even_odd_Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_29012025_task.even_odd_Task_2" />
+    <configuration name="Task8_ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task8_ATM" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_29012025_task.*" />
+          <option name="PATTERN" value="Jan.ex_30012025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AgetoVote_5" />
-      <item itemvalue="Application.Max_Two_numbers_task3" />
-      <item itemvalue="Application.Positive_Negative_task" />
-      <item itemvalue="Application.Vowel_Consonant_task4" />
-      <item itemvalue="Application.even_odd_Task_2" />
+      <item itemvalue="Application.Task4_Leap_Year" />
+      <item itemvalue="Application.Task5_Grade_Based_on_Marks" />
+      <item itemvalue="Application.Task6_Character_is_an_Alphabet" />
+      <item itemvalue="Application.Task7_Number_is_Prime" />
+      <item itemvalue="Application.Task8_ATM" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AgetoVote_5" />
-        <item itemvalue="Application.Vowel_Consonant_task4" />
-        <item itemvalue="Application.Max_Two_numbers_task3" />
-        <item itemvalue="Application.even_odd_Task_2" />
-        <item itemvalue="Application.Positive_Negative_task" />
+        <item itemvalue="Application.Task8_ATM" />
+        <item itemvalue="Application.Task7_Number_is_Prime" />
+        <item itemvalue="Application.Task6_Character_is_an_Alphabet" />
+        <item itemvalue="Application.Task5_Grade_Based_on_Marks" />
+        <item itemvalue="Application.Task4_Leap_Year" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737557048037</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="If,else,loop changes">
+      <option name="closed" value="true" />
+      <created>1738237596322</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1738237596322</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -508,7 +477,8 @@
     <MESSAGE value="Newchangestest11" />
     <MESSAGE value="Newchangestest12" />
     <MESSAGE value="Test1&amp; 2 changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test1&amp; 2 changes" />
+    <MESSAGE value="If,else,loop changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="If,else,loop changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -591,6 +561,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Jan/ex_30012025/Task2_Smallest_of_2_Numbers.java</url>
+          <line>3</line>
+          <properties class="Jan.ex_30012025.Task2_Smallest_of_2_Numbers" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

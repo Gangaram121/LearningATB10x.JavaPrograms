@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="If,else,loop changes">
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task1_Largest_of_3_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task2_Smallest_of_2_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task3_Smallest_of_3_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task4_Leap_Year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task5_Grade_Based_on_Marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task6_Character_is_an_Alphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task7_Number_is_Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan/ex_30012025/Task8_ATM.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Task 30th Jan">
+      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task1_Divisible_by5_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task2_Convert_Days_into_YearsMonthsDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task3_SeniorCitizenBasedonAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task4_TypeofWebsiteBasedonDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,10 +109,14 @@
     "Application.Switch_Basics_1.executor": "Run",
     "Application.Switch_Basics_2.executor": "Run",
     "Application.Switch_statement.executor": "Run",
+    "Application.Task1_Divisible_by5_11.executor": "Run",
     "Application.Task1_Largest_of_3_Numbers.executor": "Run",
+    "Application.Task2_Convert_Days_into_YearsMonthsDays.executor": "Run",
     "Application.Task2_Smallest_of_2_Numbers.executor": "Run",
+    "Application.Task3_SeniorCitizenBasedonAge.executor": "Run",
     "Application.Task3_Smallest_of_3_Numbers.executor": "Run",
     "Application.Task4_Leap_Year.executor": "Run",
+    "Application.Task4_TypeofWebsiteBasedonDomain.executor": "Run",
     "Application.Task5_Grade_Based_on_Marks.executor": "Run",
     "Application.Task6_Character_is_an_Alphabet.executor": "Run",
     "Application.Task7_Number_is_Prime.executor": "Run",
@@ -176,13 +177,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task8_ATM">
-    <configuration name="Task4_Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task4_Leap_Year" />
+  <component name="RunManager" selected="Application.Task4_TypeofWebsiteBasedonDomain">
+    <configuration name="Task1_Divisible_by5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task1_Divisible_by5_11" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_30012025.*" />
+          <option name="PATTERN" value="February.ex_01022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5_Grade_Based_on_Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task5_Grade_Based_on_Marks" />
+    <configuration name="Task2_Convert_Days_into_YearsMonthsDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task2_Convert_Days_into_YearsMonthsDays" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_30012025.*" />
+          <option name="PATTERN" value="February.ex_01022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6_Character_is_an_Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task6_Character_is_an_Alphabet" />
+    <configuration name="Task3_SeniorCitizenBasedonAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task3_SeniorCitizenBasedonAge" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_30012025.*" />
+          <option name="PATTERN" value="February.ex_01022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7_Number_is_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task7_Number_is_Prime" />
+    <configuration name="Task4_TypeofWebsiteBasedonDomain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task4_TypeofWebsiteBasedonDomain" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_30012025.*" />
+          <option name="PATTERN" value="February.ex_01022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task4_Leap_Year" />
-      <item itemvalue="Application.Task5_Grade_Based_on_Marks" />
-      <item itemvalue="Application.Task6_Character_is_an_Alphabet" />
-      <item itemvalue="Application.Task7_Number_is_Prime" />
+      <item itemvalue="Application.Task1_Divisible_by5_11" />
+      <item itemvalue="Application.Task2_Convert_Days_into_YearsMonthsDays" />
+      <item itemvalue="Application.Task3_SeniorCitizenBasedonAge" />
+      <item itemvalue="Application.Task4_TypeofWebsiteBasedonDomain" />
       <item itemvalue="Application.Task8_ATM" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4_TypeofWebsiteBasedonDomain" />
+        <item itemvalue="Application.Task3_SeniorCitizenBasedonAge" />
+        <item itemvalue="Application.Task2_Convert_Days_into_YearsMonthsDays" />
+        <item itemvalue="Application.Task1_Divisible_by5_11" />
         <item itemvalue="Application.Task8_ATM" />
-        <item itemvalue="Application.Task7_Number_is_Prime" />
-        <item itemvalue="Application.Task6_Character_is_an_Alphabet" />
-        <item itemvalue="Application.Task5_Grade_Based_on_Marks" />
-        <item itemvalue="Application.Task4_Leap_Year" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738237596322</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Task 30th Jan">
+      <option name="closed" value="true" />
+      <created>1738387820965</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1738387820965</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -478,7 +487,8 @@
     <MESSAGE value="Newchangestest12" />
     <MESSAGE value="Test1&amp; 2 changes" />
     <MESSAGE value="If,else,loop changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="If,else,loop changes" />
+    <MESSAGE value="Task 30th Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 30th Jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

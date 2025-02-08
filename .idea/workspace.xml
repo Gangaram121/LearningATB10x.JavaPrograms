@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Task 1st feb">
-      <change afterPath="$PROJECT_DIR$/src/February/ex_02022025/String_function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Calculate_sum_of_first_10_natural_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/PrintJava_5times_Whileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_Hello5times.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_Numbers_1to10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_even_numbers_1to20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_even_numbers_from1to20_Whileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_numbers_from_1to10_Whileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_the_multiplication_table_of_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_the_multiplication_table_of_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_the_sum_of_first10_natural_numbers.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="feb5th tasks">
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/Calculatethesumofnumbersfrom1to100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/CheckifaNumberisPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/FactorialofaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/Inverted_Pyramid_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/Inverted_Right_Angled_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/MultiplicationTableofaGivenNumbertaketheinputfromuser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/Print_Numbers_from_10to1_ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/Pyramid_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_07022025/Right_Angled_Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +26,7 @@
       <list>
         <option value="package-info" />
         <option value="Exception" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -58,6 +57,12 @@
     &quot;accountId&quot;: &quot;27326933-4e81-4154-878f-ed892a595a4c&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/February/ex_07022025/factorial_of_number_forloop.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -76,11 +81,16 @@
     "Application.BODMAS.executor": "Run",
     "Application.Boolean_Literals.executor": "Run",
     "Application.Calculate_sum_of_first_10_natural_numbers.executor": "Run",
+    "Application.Calculate_the_factorial_of_number_using_forloop.executor": "Run",
+    "Application.Calculatethesumofnumbersfrom1to100.executor": "Run",
     "Application.Char1.executor": "Run",
+    "Application.CheckifaNumberisPrime.executor": "Run",
     "Application.Concatenationinterviewquestion.executor": "Run",
     "Application.Constant.executor": "Run",
     "Application.DoWhile_1.executor": "Run",
     "Application.DoWhile_2.executor": "Run",
+    "Application.FactorialofaNumber.executor": "Run",
+    "Application.February.ex_07022025.Calculatethesumofnumbersfrom1to100.executor": "Run",
     "Application.FizzBuzz_task_1.executor": "Run",
     "Application.For_loop_3.executor": "Run",
     "Application.For_loop_4.executor": "Run",
@@ -99,6 +109,8 @@
     "Application.If_elseif_else_1.executor": "Run",
     "Application.Increment_Decrement_Op_1.executor": "Run",
     "Application.Increment_Decrement_op.executor": "Run",
+    "Application.Inverted_Pyramid_Pattern.executor": "Run",
+    "Application.Inverted_Right_Angled_Triangle.executor": "Run",
     "Application.Jan.ex_04012025.Helloworld.executor": "Run",
     "Application.Jan.ex_11012025.test1.executor": "Run",
     "Application.Jan.ex_19012025.test1.executor": "Run",
@@ -107,6 +119,7 @@
     "Application.Max_3_T_O.executor": "Run",
     "Application.Max_Two_numbers_task3.executor": "Run",
     "Application.Max_number_T_O.executor": "Run",
+    "Application.MultiplicationTableofaGivenNumbertaketheinputfromuser.executor": "Run",
     "Application.Odd_Even_8.executor": "Run",
     "Application.Odd_Even_program.executor": "Run",
     "Application.Operators1.executor": "Run",
@@ -115,13 +128,17 @@
     "Application.PrintJava_5times_Whileloop.executor": "Run",
     "Application.Print_Hello5times.executor": "Run",
     "Application.Print_Numbers_1to10.executor": "Coverage",
+    "Application.Print_Numbers_from_10to1_ReverseOrder.executor": "Run",
     "Application.Print_even_numbers_1to20.executor": "Run",
     "Application.Print_even_numbers_from1to20_Whileloop.executor": "Run",
     "Application.Print_numbers_from_1to10_Whileloop.executor": "Run",
     "Application.Print_the_multiplication_table_of_10.executor": "Run",
     "Application.Print_the_multiplication_table_of_5.executor": "Run",
+    "Application.Print_the_multiplication_table_of_7whileloop.executor": "Run",
     "Application.Print_the_sum_of_first10_natural_numbers.executor": "Run",
+    "Application.Pyramid_Pattern.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
+    "Application.Right_Angled_Triangle.executor": "Run",
     "Application.String_function.executor": "Run",
     "Application.Switch_Basics.executor": "Run",
     "Application.Switch_Basics_1.executor": "Run",
@@ -158,6 +175,7 @@
     "Application.babu.executor": "Run",
     "Application.concatenationinterview.executor": "Run",
     "Application.even_odd_Task_2.executor": "Run",
+    "Application.factorial_of_number_forloop.executor": "Run",
     "Application.for_loop_1.executor": "Run",
     "Application.for_loop_2.executor": "Run",
     "Application.for_loop_break.executor": "Run",
@@ -195,9 +213,35 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Print_the_multiplication_table_of_7whileloop">
-    <configuration name="Calculate_sum_of_first_10_natural_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Calculate_sum_of_first_10_natural_numbers" />
+  <component name="RunManager" selected="Application.Inverted_Pyramid_Pattern">
+    <configuration name="Inverted_Pyramid_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_07022025.Inverted_Pyramid_Pattern" />
+      <module name="LearningATB10x.JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="February.ex_07022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inverted_Right_Angled_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_07022025.Inverted_Right_Angled_Triangle" />
+      <module name="LearningATB10x.JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="February.ex_07022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print_the_multiplication_table_of_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_the_multiplication_table_of_10" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -209,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintJava_5times_Whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.PrintJava_5times_Whileloop" />
+    <configuration name="Pyramid_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_07022025.Pyramid_Pattern" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="February.ex_05022025.*" />
+          <option name="PATTERN" value="February.ex_07022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,38 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_even_numbers_from1to20_Whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_even_numbers_from1to20_Whileloop" />
+    <configuration name="Right_Angled_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_07022025.Right_Angled_Triangle" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="February.ex_05022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Print_numbers_from_1to10_Whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_numbers_from_1to10_Whileloop" />
-      <module name="LearningATB10x.JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="February.ex_05022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Print_the_multiplication_table_of_7whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_the_multiplication_table_of_7whileloop" />
-      <module name="LearningATB10x.JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="February.ex_05022025.*" />
+          <option name="PATTERN" value="February.ex_07022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Calculate_sum_of_first_10_natural_numbers" />
-      <item itemvalue="Application.PrintJava_5times_Whileloop" />
-      <item itemvalue="Application.Print_even_numbers_from1to20_Whileloop" />
-      <item itemvalue="Application.Print_numbers_from_1to10_Whileloop" />
-      <item itemvalue="Application.Print_the_multiplication_table_of_7whileloop" />
+      <item itemvalue="Application.Inverted_Pyramid_Pattern" />
+      <item itemvalue="Application.Inverted_Right_Angled_Triangle" />
+      <item itemvalue="Application.Pyramid_Pattern" />
+      <item itemvalue="Application.Print_the_multiplication_table_of_10" />
+      <item itemvalue="Application.Right_Angled_Triangle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Print_the_multiplication_table_of_7whileloop" />
-        <item itemvalue="Application.Calculate_sum_of_first_10_natural_numbers" />
-        <item itemvalue="Application.PrintJava_5times_Whileloop" />
-        <item itemvalue="Application.Print_even_numbers_from1to20_Whileloop" />
-        <item itemvalue="Application.Print_numbers_from_1to10_Whileloop" />
+        <item itemvalue="Application.Inverted_Pyramid_Pattern" />
+        <item itemvalue="Application.Pyramid_Pattern" />
+        <item itemvalue="Application.Inverted_Right_Angled_Triangle" />
+        <item itemvalue="Application.Right_Angled_Triangle" />
+        <item itemvalue="Application.Print_the_multiplication_table_of_10" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738477089828</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feb5th tasks">
+      <option name="closed" value="true" />
+      <created>1738994288455</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738994288455</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -515,7 +541,8 @@
     <MESSAGE value="If,else,loop changes" />
     <MESSAGE value="Task 30th Jan" />
     <MESSAGE value="Task 1st feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1st feb" />
+    <MESSAGE value="feb5th tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="feb5th tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

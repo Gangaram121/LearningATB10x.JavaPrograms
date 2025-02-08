@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Task 30th Jan">
-      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task1_Divisible_by5_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task2_Convert_Days_into_YearsMonthsDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task3_SeniorCitizenBasedonAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/ex_01022025/Task4_TypeofWebsiteBasedonDomain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/February/package-info.java" afterDir="false" />
+    <list default="true" id="93533812-9670-4e96-966d-59a0d3c726c8" name="Changes" comment="Task 1st feb">
+      <change afterPath="$PROJECT_DIR$/src/February/ex_02022025/String_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Calculate_sum_of_first_10_natural_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/PrintJava_5times_Whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_Hello5times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_Numbers_1to10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_even_numbers_1to20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_even_numbers_from1to20_Whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_numbers_from_1to10_Whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_the_multiplication_table_of_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_the_multiplication_table_of_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/February/ex_05022025/Print_the_sum_of_first10_natural_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -68,6 +75,7 @@
     "Application.All_Operators.executor": "Run",
     "Application.BODMAS.executor": "Run",
     "Application.Boolean_Literals.executor": "Run",
+    "Application.Calculate_sum_of_first_10_natural_numbers.executor": "Run",
     "Application.Char1.executor": "Run",
     "Application.Concatenationinterviewquestion.executor": "Run",
     "Application.Constant.executor": "Run",
@@ -104,7 +112,17 @@
     "Application.Operators1.executor": "Run",
     "Application.Palindrome_ofa_String_task_3.executor": "Run",
     "Application.Positive_Negative_task.executor": "Run",
+    "Application.PrintJava_5times_Whileloop.executor": "Run",
+    "Application.Print_Hello5times.executor": "Run",
+    "Application.Print_Numbers_1to10.executor": "Coverage",
+    "Application.Print_even_numbers_1to20.executor": "Run",
+    "Application.Print_even_numbers_from1to20_Whileloop.executor": "Run",
+    "Application.Print_numbers_from_1to10_Whileloop.executor": "Run",
+    "Application.Print_the_multiplication_table_of_10.executor": "Run",
+    "Application.Print_the_multiplication_table_of_5.executor": "Run",
+    "Application.Print_the_sum_of_first10_natural_numbers.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
+    "Application.String_function.executor": "Run",
     "Application.Switch_Basics.executor": "Run",
     "Application.Switch_Basics_1.executor": "Run",
     "Application.Switch_Basics_2.executor": "Run",
@@ -177,13 +195,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task4_TypeofWebsiteBasedonDomain">
-    <configuration name="Task1_Divisible_by5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task1_Divisible_by5_11" />
+  <component name="RunManager" selected="Application.Print_the_multiplication_table_of_7whileloop">
+    <configuration name="Calculate_sum_of_first_10_natural_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Calculate_sum_of_first_10_natural_numbers" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="February.ex_01022025.*" />
+          <option name="PATTERN" value="February.ex_05022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2_Convert_Days_into_YearsMonthsDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task2_Convert_Days_into_YearsMonthsDays" />
+    <configuration name="PrintJava_5times_Whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.PrintJava_5times_Whileloop" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="February.ex_01022025.*" />
+          <option name="PATTERN" value="February.ex_05022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3_SeniorCitizenBasedonAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task3_SeniorCitizenBasedonAge" />
+    <configuration name="Print_even_numbers_from1to20_Whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_even_numbers_from1to20_Whileloop" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="February.ex_01022025.*" />
+          <option name="PATTERN" value="February.ex_05022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4_TypeofWebsiteBasedonDomain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="February.ex_01022025.Task4_TypeofWebsiteBasedonDomain" />
+    <configuration name="Print_numbers_from_1to10_Whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_numbers_from_1to10_Whileloop" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="February.ex_01022025.*" />
+          <option name="PATTERN" value="February.ex_05022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8_ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan.ex_30012025.Task8_ATM" />
+    <configuration name="Print_the_multiplication_table_of_7whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="February.ex_05022025.Print_the_multiplication_table_of_7whileloop" />
       <module name="LearningATB10x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan.ex_30012025.*" />
+          <option name="PATTERN" value="February.ex_05022025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +262,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task1_Divisible_by5_11" />
-      <item itemvalue="Application.Task2_Convert_Days_into_YearsMonthsDays" />
-      <item itemvalue="Application.Task3_SeniorCitizenBasedonAge" />
-      <item itemvalue="Application.Task4_TypeofWebsiteBasedonDomain" />
-      <item itemvalue="Application.Task8_ATM" />
+      <item itemvalue="Application.Calculate_sum_of_first_10_natural_numbers" />
+      <item itemvalue="Application.PrintJava_5times_Whileloop" />
+      <item itemvalue="Application.Print_even_numbers_from1to20_Whileloop" />
+      <item itemvalue="Application.Print_numbers_from_1to10_Whileloop" />
+      <item itemvalue="Application.Print_the_multiplication_table_of_7whileloop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4_TypeofWebsiteBasedonDomain" />
-        <item itemvalue="Application.Task3_SeniorCitizenBasedonAge" />
-        <item itemvalue="Application.Task2_Convert_Days_into_YearsMonthsDays" />
-        <item itemvalue="Application.Task1_Divisible_by5_11" />
-        <item itemvalue="Application.Task8_ATM" />
+        <item itemvalue="Application.Print_the_multiplication_table_of_7whileloop" />
+        <item itemvalue="Application.Calculate_sum_of_first_10_natural_numbers" />
+        <item itemvalue="Application.PrintJava_5times_Whileloop" />
+        <item itemvalue="Application.Print_even_numbers_from1to20_Whileloop" />
+        <item itemvalue="Application.Print_numbers_from_1to10_Whileloop" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738387820965</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Task 1st feb">
+      <option name="closed" value="true" />
+      <created>1738477089828</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1738477089828</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -488,7 +514,8 @@
     <MESSAGE value="Test1&amp; 2 changes" />
     <MESSAGE value="If,else,loop changes" />
     <MESSAGE value="Task 30th Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 30th Jan" />
+    <MESSAGE value="Task 1st feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1st feb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
